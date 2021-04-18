@@ -67,8 +67,6 @@ GEM
     crass (1.0.6)
     erubi (1.10.0)
     ffi (1.15.0)
-    font-awesome-rails (4.7.0.7)
-      railties (>= 3.2, < 7)
     globalid (0.4.2)
       activesupport (>= 4.2.0)
     i18n (1.8.10)
@@ -174,7 +172,6 @@ PLATFORMS
 
 DEPENDENCIES
   byebug
-  font-awesome-rails (~> 4.7.0.5)
   listen (~> 3.3)
   pg (~> 1.1)
   puma (~> 5.0)
