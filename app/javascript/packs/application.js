@@ -1,9 +1,9 @@
-require("popper.js/dist/umd/popper.min")
+require("venobox") //open popup images
+// require("popper.js/dist/umd/popper.min")
 require("bootstrap/dist/js/bootstrap.bundle.min")
 require("jquery.easing")
-require("waypoints/lib/jquery.waypoints.min")
+// require("waypoints/lib/jquery.waypoints.min")
 require("jquery.counterup")
-require("venobox")
 require("owl.carousel/dist/owl.carousel.min")
 require("aos/dist/aos")
 require("js/application")
